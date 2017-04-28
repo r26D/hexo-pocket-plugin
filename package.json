@@ -14,8 +14,10 @@
     "chalk": "^1.1.3",
     "hexo-fs": "^0.1.6",
     "hexo-log": "^0.1.2",
+    "hexo-util": "^0.6.0",
     "lodash": "^4.17.4",
     "moment": "^2.0.0",
-    "osmosis": "^1.1.4"
+    "osmosis": "^1.1.4",
+    "yamljs": "^0.2.10"
   }
 }
