@@ -12,6 +12,9 @@ automatically create a blog post for that recommendation if one does not already
 ```
 pocket:
   enable: true
+  title_prefix: "Recomended Reading: "
+  default_tag: "recommended reading"
+  default_category: "Recommended Reading"
   feeds:
     - username:
       author_name:
